@@ -7,6 +7,18 @@ body {
   margin: 0 auto;
 }
 
+.text-gray {
+  color: #808080;
+}
+
+.text small {
+  font-size: 13px;
+}
+
+a {
+  text-decoration: none;
+  color: #3293cf;
+}
 /* Header */
 #main-header {
   height: 100px;
@@ -18,4 +30,14 @@ body {
 #logo {
   height: 55px;
   margin-top: 34px;
+}
+
+h1 {
+  font-size: 39px;
+  margin-bottom: 0;
+}
+
+address {
+  font-style: normal;
+  font-size: 19px;
 }
