@@ -1,5 +1,6 @@
 /* utili */
-body {
+body,
+figure {
   margin: 0;
 }
 .container {
@@ -11,7 +12,7 @@ body {
   color: #808080;
 }
 
-.text small {
+.text-small {
   font-size: 13px;
 }
 
@@ -40,4 +41,9 @@ h1 {
 address {
   font-style: normal;
   font-size: 19px;
+}
+
+/* article pictures */
+figure {
+  margin: 20px 0;
 }
