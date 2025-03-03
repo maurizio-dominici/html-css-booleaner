@@ -12,4 +12,10 @@ body {
   height: 100px;
   background-color: #4ea0ff;
   background-image: url("../img/pattern.png");
+  background-size: 32%;
+}
+
+#logo {
+  height: 55px;
+  margin-top: 34px;
 }
