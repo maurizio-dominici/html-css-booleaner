@@ -59,14 +59,51 @@ figure {
 
 th {
   text-align: left;
-  background-color: #2d7deb;
+  background-color: #1faae4;
   color: #fff;
 }
 
 tr {
-  background-color: #10a5db;
+  background-color: rgb(177 230 242);
 }
 
 table {
   border-collapse: collapse;
+}
+
+.even {
+  background-color: #fff;
+}
+
+/* related articles */
+
+#pc {
+  color: #fff;
+  width: 200px;
+  height: 150px;
+  background-image: url("../img/monitor.jpg");
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+#graph {
+  color: #fff;
+  width: 200px;
+  height: 150px;
+  background-image: url("../img/graph.jpg");
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.related-article-title {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+h3 {
+  color: #808080;
 }
